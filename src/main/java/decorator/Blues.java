@@ -27,7 +27,7 @@ public class Blues extends ArtistDecorator {
         return artist.getOrigin() + "\n\tBlues origin: The blues has deep roots in American history," +
                 "particularly African-American history. The blues originated turnOnRadio Southern plantations " +
                 "in the 19th Century. Its inventors were slaves, ex-slaves and the descendants of" +
-                "slaves—African-American sharecroppers who sang as they toiled in the cotton and" +
+                "slaves-African-American sharecroppers who sang as they toiled in the cotton and" +
                 "vegetable fields";
     }
 

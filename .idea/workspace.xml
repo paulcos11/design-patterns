@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6863aeb6-4523-48f0-a5e6-8071dd38b24d" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\target\classes\tests\FMUsaRadioPlayerTemplate.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\target\classes\tests\FmBandwidthSingletonTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\target\classes\tests\NextFMStationStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\target\classes\tests\WavPlayerTest.class" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\src\main\java\tests\FMUsaRadioPlayerTemplate.java" afterPath="$PROJECT_DIR$/src/test/java/tests/FMUsaRadioPlayerTemplate.java" />
-      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\src\main\java\tests\FmBandwidthSingletonTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/FmBandwidthSingletonTest.java" />
-      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\src\main\java\tests\NextFMStationStrategy.java" afterPath="$PROJECT_DIR$/src/test/java/tests/NextFMStationStrategy.java" />
-      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\eight\projects\design-patterns\src\main\java\tests\WavPlayerTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/WavPlayerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/decorator/Blues.class" afterPath="$PROJECT_DIR$/target/classes/decorator/Blues.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/strategy/FMRadioPlayer.class" afterPath="$PROJECT_DIR$/target/classes/strategy/FMRadioPlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/template/UsaRadio.class" afterPath="$PROJECT_DIR$/target/classes/template/UsaRadio.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-patterns.iml" afterPath="$PROJECT_DIR$/design-patterns.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/decorator/Blues.java" afterPath="$PROJECT_DIR$/src/main/java/decorator/Blues.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -41,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66150445">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blues.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Blues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6238938">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -121,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/main/java/tests/WavPlayerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/FmBandwidthSingletonTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/Blues.java" />
       </list>
     </option>
   </component>
@@ -281,6 +279,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -562,7 +586,7 @@
       <created>1457623007163</created>
       <option name="number" value="Default" />
       <updated>1457623007163</updated>
-      <workItem from="1457623012054" duration="10430000" />
+      <workItem from="1457623012054" duration="10988000" />
     </task>
     <task id="LOCAL-00001" summary="updated pom added maven compiler olugin">
       <created>1457624113190</created>
@@ -586,7 +610,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10430000" />
+    <option name="totallyTimeSpent" value="10988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
@@ -599,7 +623,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27870968" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27870968" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32451254" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -683,8 +707,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66150445">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/Blues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6238938">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding />
         </state>
       </provider>
