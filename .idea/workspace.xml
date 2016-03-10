@@ -30,8 +30,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56666666">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state vertical-scroll-proportion="-2.1733334">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -548,7 +548,7 @@
       <created>1457623007163</created>
       <option name="number" value="Default" />
       <updated>1457623007163</updated>
-      <workItem from="1457623012054" duration="1646000" />
+      <workItem from="1457623012054" duration="2283000" />
     </task>
     <task id="LOCAL-00001" summary="updated pom added maven compiler olugin">
       <created>1457624113190</created>
@@ -556,11 +556,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457624113190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated pom added maven compiler plugin">
+      <created>1457624680260</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457624680260</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1646000" />
+    <option name="totallyTimeSpent" value="2283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
@@ -597,7 +603,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated pom added maven compiler olugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated pom added maven compiler olugin" />
+    <MESSAGE value="updated pom added maven compiler plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated pom added maven compiler plugin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56666666">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state vertical-scroll-proportion="-2.1733334">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
